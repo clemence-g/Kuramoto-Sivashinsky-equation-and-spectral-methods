@@ -1,4 +1,7 @@
-# Kuramoto-Sivashinsky Equation Simulation  
+# Kuramoto-Sivashinsky Equation Simulation 
+
+
+> **Note:** This project was carried out with **Élodie Sorée** for the Numerical Simulation in Physics course at UCLouvain in 2024.
 
 This project explores the Kuramoto-Sivashinsky equation and its chaotic behavior. This equation describes the velocity dynamics of a fluid near a flame, with the system's behavior depending on the domain size.  
 
